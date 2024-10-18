@@ -50,6 +50,7 @@ Storing data in a local folder is a good practice to ensure better data security
 1. Clone the repository `git clone git@github.com:mayneyao/eidos.git`
 2. Run `pnpm install` to install dependencies
 3. Run `pnpm build` (only needed once)
+3. Run `sudo pnpm add -D vite -w`
 4. Run `pnpm dev`
 5. You can now access the app in your browser at http://localhost:5173
 
